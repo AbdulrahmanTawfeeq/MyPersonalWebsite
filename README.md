@@ -4,7 +4,7 @@ This is the repository for my personal website. The website showcases my skills,
 
 ## Website URL
 
-[Visit the website](https://www.example.com/)
+[Visit the website](https://abdulrahmantawfeeq.github.io/personal/)
 
 ## Technologies Used
 
