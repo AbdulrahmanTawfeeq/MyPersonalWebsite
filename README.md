@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Abdulrahman Tawfeeq - Personal Website
 
 This is the repository for my personal website. The website showcases my skills, projects, and information about myself as a Full Stack Developer and Freelancer. It also includes a contact form to get in touch with me.
@@ -20,3 +21,7 @@ This is the repository for my personal website. The website showcases my skills,
 ## Contact Me
 
 Feel free to reach out to me at abdulrahman.taufeq@gmail.com for any questions or collaboration opportunities.
+=======
+# MyPersonalWebsite
+This is the repository for my personal website. The website showcases my skills, projects, and information about myself as a Full Stack Developer and Freelancer. It also includes a contact form to get in touch with me.
+>>>>>>> origin/master
