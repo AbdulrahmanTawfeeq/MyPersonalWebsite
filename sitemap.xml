@@ -1,0 +1,13 @@
+<!-- For SEO purposes, you may want to add a sitemap.xml file to help search engines index the pages
+on
+your website. make sure to update the <lastmod> date in the sitemap.xml file to the current date
+whenever you
+make significant changes to your website content. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://www.example.com/</loc>
+        <lastmod>2023-07-24</lastmod>
+        <priority>1.0</priority>
+    </url>
+</urlset>
+ 
