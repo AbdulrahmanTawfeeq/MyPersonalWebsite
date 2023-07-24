@@ -1,0 +1,8 @@
+# Ignore build and compiled files
+*.log
+# *.txt
+*.cache
+*.class
+*.jar
+*.war
+*.ear
